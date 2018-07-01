@@ -1,4 +1,4 @@
-# Habitant
+# Habitat
 Habitat is an application developed to give the user an accurate and quantitative measure of quality of life in a location. 
 The main benefactors of such an application would be current citizens of Canada, immigrants and also real estate companies. 
 This solution is produced by an algorithm that takes values for a location from various databases and calculates the quality 
