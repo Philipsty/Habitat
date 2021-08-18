@@ -1,7 +1,7 @@
 COMP SCI 2XB3
-Abdul - 400017302 - Project Coordinator, Developer
+Tyler - 400017512 - Project Coordinator, Developer 
+Abdul - 400017302 - Developer, Design Analyst
 Mohid - 400021935 - Lead Developer
-Tyler - 400017512 - Developer, Design Analyst
 Jakub - 400011899 - Head of Research, Developer
 Kareem - 400032153 - Secretary, Developer
 The work being submitted by us is our group work. April 12, 2017.
